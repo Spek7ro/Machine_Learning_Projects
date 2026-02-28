@@ -1,2 +1,2 @@
-# Machine_Learning_Projects
+# Machine Learning Projects
 Mis proyectos y practicas de Machine Learning  
